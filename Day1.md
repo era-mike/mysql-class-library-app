@@ -93,7 +93,9 @@ Let’s walk through **Day 1**: Setting up the **React + Node.js** app and conne
 
    INSERT INTO books (title, author, status) VALUES 
    ('The Great Gatsby', 'F. Scott Fitzgerald', 'Available'),
-   ('To Kill a Mockingbird', 'Harper Lee', 'Available');
+   ('To Kill a Mockingbird', 'Harper Lee', 'Available')
+   ('1984', 'George Orwell', 'Checked Out');
+
    ```
 
 3. Test the connection by running the backend:
